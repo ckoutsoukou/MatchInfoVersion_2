@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MatchInfo.WebApi.props" />
+</Project>

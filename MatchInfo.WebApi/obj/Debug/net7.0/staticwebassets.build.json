@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "83GNWEeE2+HB5OcLyctz2+oCjI/a28nZf1hcncPfePA=",
+  "Source": "MatchInfo.WebApi",
+  "BasePath": "_content/MatchInfo.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
